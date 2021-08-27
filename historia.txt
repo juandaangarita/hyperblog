@@ -1,3 +1,4 @@
 Esta es la historia de Juan Angarita
+Mi edad es 28 años.
 Prueba para platzi con github
 y vamos a ensayar.
