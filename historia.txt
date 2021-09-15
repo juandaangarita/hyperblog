@@ -4,6 +4,6 @@ Prueba para platzi con github
 y vamos a ensayar.
 Esto es otra cosa que vamos a agregar proque ajá.
 
-Hoy es un trabajador que no está muy feliz en su trabajo.
+Hoy es un trabajador que no está muy feliz en su trabajo, pero que gracias a Platzi lograra un mejor empleo.
 
 Hoy es viernes 3 de septiembre de 2021.
